@@ -1,7 +1,7 @@
- ---	
- layout: post	
- title: Formatting Ubuntu
- ---	
+---
+layout: post
+title: Formatting ubuntu
+---
 
 ### Intro
 
