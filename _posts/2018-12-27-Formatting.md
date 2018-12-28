@@ -68,3 +68,9 @@ and others (source: https://itsfoss.com/ubuntu-18-10-release-features/) ... it j
 ### Boot USB
 
 http://ubuntuhandbook.org/index.php/2018/10/create-live-usb-ubuntu-18-04/
+
+### Terminal
+
+* Terminal (Terminator): https://gnometerminator.blogspot.com
+* Colors (Twiligh): https://github.com/mbadolato/iTerm2-Color-Schemes
+* Framework: Bash-it https://github.com/Bash-it/bash-it
