@@ -47,13 +47,13 @@ _Link to other repository_
 
 ### Snaps
 
+- phpstorm
 - atom
 - spotify
-- phpstorm
 - vlc
-- slack
+- ~~slack~~ wavebox
 - poedit
-- noson (forget this?)
+- ~~noson (forget this?)~~
 
 ## Thoughts
 
