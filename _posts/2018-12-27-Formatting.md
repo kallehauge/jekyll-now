@@ -60,7 +60,7 @@ _Link to other repository_
 To use, or not to use Budgie distro of Ubuntu? I think... not? Hmm! Not! Why not jump directly to 18.10 of default Ubuntu.
 Before doing this I basically though that I would start to just stick with LTS but with changes like: 
 
-> # 5. Startup time boost and XDG Portals support for Snap applications
+> #### 5. Startup time boost and XDG Portals support for Snap applications
 > Continuing its focus on Snap packages, Canonical is bringing some useful improvements to it. Snap applications will take less time to start. With XDG portal, you should be able to install Snap in a few clicks from the Snapcraft Store website.
 
 and others (source: https://itsfoss.com/ubuntu-18-10-release-features/) ... it just seems like the right thing to do. I am currently on 17.10 and it was my first time switching to Linux (from OSX) and I've been battling with Wayland numerious of times... but 18.10 seems less "bad". No major changes like Wayland have happened and there are some battery + performance enhancements that just seems too good to pass since.
@@ -74,3 +74,8 @@ http://ubuntuhandbook.org/index.php/2018/10/create-live-usb-ubuntu-18-04/
 * Terminal (Terminator): https://gnometerminator.blogspot.com
 * Colors (Twiligh): https://github.com/mbadolato/iTerm2-Color-Schemes
 * Framework: Bash-it https://github.com/Bash-it/bash-it
+
+### General styling
+
+* Ubuntu 18.10 Yaru default theme (aka: not dark) + https://www.gnome-look.org/p/1013030/
+* Dash to docker - https://extensions.gnome.org/extension/307/dash-to-dock/
