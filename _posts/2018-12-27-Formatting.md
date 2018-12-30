@@ -79,3 +79,4 @@ http://ubuntuhandbook.org/index.php/2018/10/create-live-usb-ubuntu-18-04/
 
 * Ubuntu 18.10 Yaru default theme (aka: not dark) + https://www.gnome-look.org/p/1013030/
 * Dash to docker - https://extensions.gnome.org/extension/307/dash-to-dock/
+* Some simple Apple'ish mountains wallpaper from http://simpledesktops.com/
