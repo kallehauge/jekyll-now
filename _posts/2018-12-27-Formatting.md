@@ -22,6 +22,8 @@ This is in no way a complete writing of what I do when I install Ubuntu ("click 
 - `.profile` (included in .bashrc)
 - scripts and functions
 
+Some of the history configuration is inspired by https://www.shellhacks.com/tune-command-line-history-bash/.
+
 ### Other configuration
 
 - `~/.PhpStorm2018.3`
