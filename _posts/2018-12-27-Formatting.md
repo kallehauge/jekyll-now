@@ -3,9 +3,9 @@ layout: post
 title: Formatting ubuntu
 ---
 
-### Intro
-
 Just a run through backing up my OS before making a complete install of an updated version. By the way, this is very much an inspired idea from the Facebook movie where he just dabbled as he goes. I have done this before on "real blogs", but this will be much more like a "for me" format.
+
+This is in no way a complete writing of what I do when I install Ubuntu ("click here and here" or in completion how I setup my system). It is more a sort of "remember the most important things" thingy.
 
 ### Backing up data
 
@@ -21,14 +21,6 @@ Just a run through backing up my OS before making a complete install of an updat
 - `.bashrc`
 - `.profile` (included in .bashrc)
 - scripts and functions
-
-_Variables I either override or add in the `.bashrc` file:_
-
-```
-HISTSIZE=15000
-HISTFILESIZE=30000
-HISTIGNORE="ls:ll:ps:history"
-```
 
 ### Other configuration
 
