@@ -22,6 +22,14 @@ Just a run through backing up my OS before making a complete install of an updat
 - `.profile` (included in .bashrc)
 - scripts and functions
 
+_Variables I either override or add in the `.bashrc` file:_
+
+```
+HISTSIZE=15000
+HISTFILESIZE=30000
+HISTIGNORE="ls:ll:ps:history"
+```
+
 ### Other configuration
 
 - `~/.PhpStorm2018.3`
