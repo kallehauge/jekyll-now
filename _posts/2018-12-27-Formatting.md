@@ -85,4 +85,4 @@ http://ubuntuhandbook.org/index.php/2018/10/create-live-usb-ubuntu-18-04/
 
 ### Devices
 
-* Razer mouth settings: `xinput --set-prop "Razer Razer DeathAdder" "libinput Accel Speed" -0.4` (https://www.x.org/releases/X11R7.5/doc/man/man1/xinput.1.html) - must be between `1` and `-1`.
+* Razer mouse settings: `xinput --set-prop "Razer Razer DeathAdder" "libinput Accel Speed" -0.2` (https://www.x.org/releases/X11R7.5/doc/man/man1/xinput.1.html) - must be between `1` and `-1`.
